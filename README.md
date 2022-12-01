@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fire-Man
-- 👀 I’m interested in Video Games and History 
+- 👀 I’m interested in  
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on assignments
+- 💞️ I’m looking to 
 - 📫 How to reach me ...
 
 <!---
